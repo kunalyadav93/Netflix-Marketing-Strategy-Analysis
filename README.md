@@ -1,0 +1,2 @@
+# Netflix-Marketing-Strategy-Analysis
+This report dives in and analyzes the marketing strategies deployed by one of the streaming giants in the tech industry to dominate as a market leader in its segment. This report examines the strategic challenges facing the streaming giant and proposes recommendations that will enable them to achieve their key objectives. SWOT Analysis, PESTEL Analysis and Social Medial Marketing analytics were performed to understand its position against HULU - another competing service.
